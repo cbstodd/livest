@@ -1,0 +1,27 @@
+{
+  "name": "liveist",
+  "version": "1.0.0",
+  "description": "Live performance video site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cbstodd/livest.git"
+  },
+  "keywords": [
+    "video",
+    "live",
+    "performance",
+    "unsigned",
+    "music",
+    "comedy"
+  ],
+  "author": "Colin Stodd (http://www.colinstodd.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbstodd/livest/issues"
+  },
+  "homepage": "https://github.com/cbstodd/livest#readme"
+}
