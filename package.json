@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/cbstodd/livest/issues"
   },
-  "homepage": "https://github.com/cbstodd/livest#readme"
+  "homepage": "https://github.com/cbstodd/livest#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
 }

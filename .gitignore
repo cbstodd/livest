@@ -1,0 +1,8 @@
+### Livest Git ignore file
+### Colin Stodd
+
+# Webstorm project files
+.idea
+*.iml
+out
+gen
